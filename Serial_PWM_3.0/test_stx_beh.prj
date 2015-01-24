@@ -1,0 +1,6 @@
+verilog isim_temp "SW_GEN.v"
+verilog isim_temp "META_STABLE.v"
+verilog isim_temp "EN_GEN.v"
+verilog isim_temp "SIO.v"
+verilog isim_temp "test.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

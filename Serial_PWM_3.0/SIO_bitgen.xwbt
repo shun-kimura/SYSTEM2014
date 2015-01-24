@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\ISE_Project_File\Serial_PWM_3.0\SIO.ncd
+OUTFILE=C:\ISE_Project_File\Serial_PWM_3.0\SIO.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\ISE_Project_File\Serial_PWM_3.0
+LICENSE=WebPack
+USER_INFO=210968893_0_0_810

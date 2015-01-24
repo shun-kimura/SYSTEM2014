@@ -1,0 +1,4 @@
+verilog work "SW_GEN.v"
+verilog work "META_STABLE.v"
+verilog work "EN_GEN.v"
+verilog work "SIO.v"

@@ -1,0 +1,22 @@
+
+
+NET "rx_data_reg[7]" LOC = G1;
+NET "rx_data_reg[6]" LOC = P4;
+NET "rx_data_reg[5]" LOC = N4;
+NET "rx_data_reg[4]" LOC = N5;
+NET "rx_data_reg[3]" LOC = P6;
+NET "rx_data_reg[2]" LOC = P7;
+NET "rx_data_reg[1]" LOC = M11;
+NET "rx_data_reg[0]" LOC = M5;
+NET "CLK" LOC = B8;
+NET "RESET" LOC = G12;
+NET "RX" LOC = C5;
+NET "TX" LOC = B6;
+NET "SW" LOC = N3;
+
+# PlanAhead Generated physical constraints 
+
+NET "DIR1" LOC = A9;
+NET "DIR2" LOC = C12;
+NET "PWM1" LOC = B9;
+NET "PWM2" LOC = A13;
